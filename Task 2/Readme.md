@@ -1,3 +1,4 @@
+⚠️ If GitHub does not preview the notebook, please open it using nbviewer.
 # 🛍️ Task 2: Customer Segmentation Using Unsupervised Learning
 
 ## 📌 Project Overview
