@@ -1,3 +1,5 @@
+⚠️ If GitHub does not preview the notebook, please open it using nbviewer.
+
 # 📊 Task 1: Term Deposit Subscription Prediction (Bank Marketing)
 
 ## 📌 Project Overview
