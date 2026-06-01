@@ -273,6 +273,45 @@ plt.ylabel("RMSE")
 plt.show()
 
 # ============================================================
+# Actual vs All Model Forecasts Comparison - Fixed
+# ============================================================
+
+prophet_pred_fixed = prophet_pred[-len(test):]
+
+plt.figure(figsize=(14, 6))
+
+plt.plot(
+    test.index,
+    test["Global_active_power"],
+    label="Actual",
+    linewidth=2
+)
+
+plt.plot(
+    test.index,
+    arima_pred,
+    label="ARIMA Forecast"
+)
+
+plt.plot(
+    test.index,
+    prophet_pred_fixed,
+    label="Prophet Forecast"
+)
+
+plt.plot(
+    test.index,
+    xgb_pred,
+    label="XGBoost Forecast"
+)
+
+plt.title("Actual vs Forecasted Energy Consumption Comparison")
+plt.xlabel("Date")
+plt.ylabel("Global Active Power")
+plt.legend()
+plt.show()
+
+# ============================================================
 # 13. Conclusion
 # ============================================================
 
