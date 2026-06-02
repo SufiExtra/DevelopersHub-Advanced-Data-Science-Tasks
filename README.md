@@ -49,7 +49,7 @@ Each task is organized in a separate folder with its own code, notebook, visuali
 
 ---
 
-## ✅ Task 1: Term Deposit Subscription Prediction
+## ✅ Task 1: Term Deposit Subscription Prediction (https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%201)
 
 ### 📌 Objective
 
