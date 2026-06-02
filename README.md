@@ -49,7 +49,7 @@ Each task is organized in a separate folder with its own code, notebook, visuali
 
 ---
 
-## ✅ [Task 1: Term Deposit Subscription Prediction] (https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%201)
+## ✅ [Task 1: Term Deposit Subscription Prediction](https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%201)
 
 ### 📌 Objective
 
@@ -81,7 +81,7 @@ Random Forest performed better than Logistic Regression and achieved the highest
 
 ---
 
-## ✅ [Task 2: Customer Segmentation Using Unsupervised Learning] (https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%202)
+## ✅ [Task 2: Customer Segmentation Using Unsupervised Learning](https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%202)
 
 ### 📌 Objective
 
@@ -116,7 +116,7 @@ Customer segmentation helps businesses identify valuable customer groups and des
 
 ---
 
-## ✅ [Task 3: Energy Consumption Time Series Forecasting] (https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%203)
+## ✅ [Task 3: Energy Consumption Time Series Forecasting](https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%203)
 
 ### 📌 Objective
 
@@ -150,7 +150,7 @@ XGBoost achieved the best performance because it effectively used engineered tim
 
 ---
 
-## ✅ [Task 4: Loan Default Risk with Business Cost Optimization] (https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%204)
+## ✅ [Task 4: Loan Default Risk with Business Cost Optimization](https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%204)
 
 ### 📌 Objective
 
@@ -194,7 +194,7 @@ CatBoost performed better than Logistic Regression. Threshold optimization helpe
 
 ---
 
-## ✅ [Task 5: Interactive Business Dashboard in Streamlit] (https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%205)
+## ✅ [Task 5: Interactive Business Dashboard in Streamlit](https://github.com/SufiExtra/DevelopersHub-Advanced-Data-Science-Tasks/tree/main/Task%205)
 
 ### 📌 Objective
 
